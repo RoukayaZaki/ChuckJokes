@@ -1,4 +1,4 @@
-# untitled
+# ChuckNorrisJokes
 
 This project is the first assignment for Flutter elective course. It displays Chuck Norris jokes.
 
