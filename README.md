@@ -14,10 +14,24 @@ you can download the apk from [here](/build/app/outputs/flutter-apk/app-release.
 
 <table>
   <tr>
-    <td>Home Screen</td>
+    <td>Home Screen and AppIcon</td>
   </tr>
   <tr>
-    <td><img src="/screenshots/photo5830313878804871766.jpg" width=300 height=630></td>
-    <td><img src="/screenshots/photo5830313878804871767.jpg" width=300 height=630></td>
+    <td><img src="/screenshots/photo5873080513143617803.jpg" width=300 height=630></td>
+    <td><img src="/screenshots/photo5873080513143617802.jpg" width=300 height=630></td>
+  </tr>
+<tr>
+    <td>Categories</td>
+  </tr>
+<tr>
+    <td><img src="/screenshots/photo5873080513143617801.jpg" width=300 height=630></td>
+    <td><img src="/screenshots/photo5873080513143617800.jpg" width=300 height=630></td>
+  </tr>
+<tr>
+    <td>Search</td>
+  </tr>
+<tr>
+    <td><img src="/screenshots/photo5873080513143617799.jpg" width=300 height=630></td>
+    <td><img src="/screenshots/photo5873080513143617798.jpg" width=300 height=630></td>
   </tr>
  </table>
